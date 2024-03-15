@@ -32,19 +32,28 @@ Hardware – PCs, Cyclone II , USB flasher
 
 
 **Program:**
+![DE B 1](https://github.com/JAYASREE24032006/BOOLEAN_FUNCTION_MINIMIZATION/assets/144360800/12bb5910-8c44-42a9-8588-378064a94cb0)
+
 
 /* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
 
-Developed by: RegisterNumber:*/
+Developed by:**R.JAYASREE**
+RegisterNumber:**212223040074**
 
 
 **RTL realization**
+![DE B 2](https://github.com/JAYASREE24032006/BOOLEAN_FUNCTION_MINIMIZATION/assets/144360800/0508ff9a-5014-402c-92c4-ad39c199e638)
+
 
 **Output:**
+![DE B 3](https://github.com/JAYASREE24032006/BOOLEAN_FUNCTION_MINIMIZATION/assets/144360800/ef83bc3e-66e5-4789-b64b-5d29c6e3d53d)
 
-**RTL**
 
-**Timing Diagram**
+
+
+**Truth Table:**
+![DE B 4](https://github.com/JAYASREE24032006/BOOLEAN_FUNCTION_MINIMIZATION/assets/144360800/32256641-247c-4cc2-aad3-76cf8eedfbaf)
+
 
 **Result:**
 
