@@ -1,4 +1,6 @@
-# BOOLEAN_FUNCTION_MINIMIZATION
+## Ex-2 BOOLEAN_FUNCTION_MINIMIZATION
+
+**DATE : 23.02.2024**
 
 **AIM:**
 
@@ -11,14 +13,13 @@ F2=xy’z+x’y’z+w’xy+wx’y+wxy
 **Equipment Required:**
 
 Hardware – PCs, Cyclone II , USB flasher
+Software – Quartus prime
 
-**Software – Quartus prime**
+**Logic Diagram:**
+![image](https://github.com/JAYASREE24032006/BOOLEAN_FUNCTION_MINIMIZATION/assets/144360800/6f0c15b8-b793-4c94-8976-bd6aaa34f960)
 
-**Theory**
 
-**Logic Diagram**
-
-**Procedure**
+**Procedure:**
 
 1.	Type the program in Quartus software.
 
@@ -36,14 +37,7 @@ Hardware – PCs, Cyclone II , USB flasher
 ![DE B 1](https://github.com/JAYASREE24032006/BOOLEAN_FUNCTION_MINIMIZATION/assets/144360800/12bb5910-8c44-42a9-8588-378064a94cb0)
 
 
-/* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
-
-Developed by:**R.JAYASREE**
-
-RegisterNumber:**212223040074**
-
-
-**RTL realization**
+**RTL realization:**
 ![DE B 2](https://github.com/JAYASREE24032006/BOOLEAN_FUNCTION_MINIMIZATION/assets/144360800/0508ff9a-5014-402c-92c4-ad39c199e638)
 
 
