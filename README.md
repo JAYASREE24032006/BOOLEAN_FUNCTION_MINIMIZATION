@@ -16,6 +16,7 @@ Hardware – PCs, Cyclone II , USB flasher
 Software – Quartus prime
 
 **Logic Diagram:**
+
 ![image](https://github.com/JAYASREE24032006/BOOLEAN_FUNCTION_MINIMIZATION/assets/144360800/6f0c15b8-b793-4c94-8976-bd6aaa34f960)
 
 
